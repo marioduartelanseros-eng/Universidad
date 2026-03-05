@@ -41,5 +41,5 @@ title: Apuntes Universidad
 ### Ing. Software
 - [[Pre Parcial]]
 - [[Tema 1.1 - Conceptos basicos]]
-- [[Año 2-2/Ing. Software/Tema 1.2 - Estándares y Organización]]
+- [[Tema 1.2 - Estándares y Organizaciones]]
 - [[Tema 2.1 - Fases del desarrollo]]
