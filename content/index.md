@@ -15,7 +15,7 @@ title: Apuntes Universidad
 - [[Año 2-2/Bases de Datos/Sesión 4 - Modelos de Datos]]
 - [[Año 2-2/Bases de Datos/Sesión 5 - El Modelo Relacional (I)]]
 - [[Año 2-2/Bases de Datos/Sesión 6 - El Modelo Relacional (II)]]
-- [[Año 2-2/Bases de Datos/Sesión 7 - Práctica MySQL W…]]
+- [[Sesión 7 - Práctica MySQL Workbench]]
 - [[Año 2-2/Bases de Datos/Sesion 9 - 3-03-2026]]
 
 ### Estructura de Computadores
