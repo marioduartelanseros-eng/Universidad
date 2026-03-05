@@ -1,0 +1,1 @@
+Moore's Law is the observation that the number of transistors in an integrated circuit doubles about every two years. Moore's law is an observation and projection of a historical trend. rather than a law of physics, it is an empirical relationship. It is an experience curve effect, a type of observation quantifying efficiency gains from learned experience in production.
